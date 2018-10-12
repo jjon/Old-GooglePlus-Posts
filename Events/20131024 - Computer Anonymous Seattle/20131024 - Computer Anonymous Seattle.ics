@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:go020lfmt5ht8f1fu2d8cig1hs@events.plus.google.com
+DTSTAMP:20180727T165732-0400
+CREATED:20131018T005104-0400
+LAST-MODIFIED:20131018T005438-0400
+SUMMARY:Computer Anonymous Seattle
+DESCRIPTION:This will be the first meeting of Computer Anonymous&#39;s Seattle group! Here&#39;s more about our group:<br /><br /><a href="http://computeranonymous.org/us_seattle.html" class="ot-anchor">http://computeranonymous.org/us_seattle.html</a><br /><br />How to find us at Outlander: Sign on table! Nerds saying Computer!<br /><br />Note: this venue is 21 and over.<br /><br />Also, PLEASE read over the &quot;The Rules&quot; and &quot;Imposters Welcome&quot; here: <a href="http://computeranonymous.org/index.html" class="ot-anchor">http://computeranonymous.org/index.html</a>
+URL:https://plus.google.com/events/cgo020lfmt5ht8f1fu2d8cig1hs
+END:VEVENT
+END:VCALENDAR
